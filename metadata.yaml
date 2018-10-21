@@ -1,5 +1,5 @@
 _repo: Antony-and-Cleopatra_1534
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Generals -- Rome -- Drama'
 - !lcsh 'Queens -- Egypt -- Drama'
 - !lcsh 'Rome -- History -- Civil War, 43-31 B.C. -- Drama'
+- GITenberg
 title: Antony and Cleopatra
 url: http://www.gutenberg.org/ebooks/1534
